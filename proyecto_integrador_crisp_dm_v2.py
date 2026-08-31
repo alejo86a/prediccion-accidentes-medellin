@@ -20,7 +20,7 @@ Original file is located at
 | **Tipo de Problema** | Clasificación Binaria Supervisada |
 | **Fuente del Dataset** | Portal de Datos Abiertos de Medellín / Medata |
 | **Enlace al Dataset** | [https://medata.gov.co/dataset/accidentes-de-transito](https://medata.gov.co/dataset/accidentes-de-transito) |
-| **Enlace a Google Colab** | https://drive.google.com/file/d/1oNh_u6GITleLGLgVoYApt-vPH5e5_xYg/view?usp=sharing |
+| **Enlace a Google Colab** | https://drive.google.com/file/d/1KxzJMCnL42K9oiQNfCE8M5_5HwYQpSGv/view?usp=sharing |
 | **Repositorio GitHub** | https://github.com/alejo86a/proyecto_integrador_crisp_dm |
 | **URL de la App (Streamlit)** | [https://prediccion-accidentes-medellin.streamlit.app] |
 
