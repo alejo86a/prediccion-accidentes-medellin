@@ -1,0 +1,1001 @@
+hora_incidente,comuna_accidente,clase_accidente,diseno_via,condicion_clima,severidad_incidente
+6,La Candelaria,Choque,Lote baldio,Seco,0
+19,Aranjuez,Choque,Tramo de via,Seco,0
+14,El Poblado,Choque,Interseccion,DESCONOCIDO,0
+10,Aranjuez,Choque,Tramo de via,Seco,0
+7,La Candelaria,Otro,Interseccion,Niebla,0
+20,Laureles_error,Choque,Interseccion,Seco,1
+6,Laureles_error,Otro,Tramo de via,Seco,0
+18,La Candelaria,Choque,Lote baldio,Seco,0
+22,El Poblado,Choque,Tramo de via,Seco,0
+10,La Candelaria,Choque,Tramo de via,Lluvia,0
+10,La Candelaria,Choque,Interseccion,Niebla,0
+23,Manrique,Choque,Interseccion,Lluvia,1
+20,El Poblado,Atropello,Tramo de via,Lluvia,1
+3,Robledo,Choque,Tramo de via,Seco,0
+7,El Poblado,Atropello,Tramo de via,Seco,1
+23,Belen_Error,Atropello,Tramo de via,DESCONOCIDO,1
+2,Robledo,Choque,Interseccion,Seco,0
+21,Aranjuez,Choque,Tramo de via,Lluvia,0
+20,Laureles_error,Atropello,Tramo de via,Lluvia,0
+1,Laureles_error,Choque,Tramo de via,Seco,1
+23,El Poblado,Choque,Tramo de via,DESCONOCIDO,0
+11,Castilla,Otro,Tramo de via,Seco,0
+5,Robledo,Choque,Tramo de via,Seco,0
+1,Manrique,Atropello,Lote baldio,Seco,1
+20,La Candelaria,Otro,Interseccion,Seco,0
+0,Belen_Error,Choque,Tramo de via,Seco,1
+11,Castilla,Choque,Glorieta,Seco,0
+21,La Candelaria,Choque,Interseccion,Lluvia,0
+11,La Candelaria,Choque,Interseccion,Niebla,0
+16,Belen_Error,Choque,Tramo de via,Seco,0
+9,Aranjuez,Atropello,Tramo de via,Seco,0
+15,Robledo,Choque,Tramo de via,Niebla,0
+14,La Candelaria,Choque,Tramo de via,Seco,1
+14,Robledo,Otro,Tramo de via,Seco,0
+18,La Candelaria,Caida ocupante,Tramo de via,Seco,0
+11,La Candelaria,Atropello,Tramo de via,Seco,0
+22,La Candelaria,Choque,Interseccion,Seco,0
+19,Robledo,Atropello,Tramo de via,DESCONOCIDO,0
+2,Belen_Error,Choque,Tramo de via,Seco,1
+4,Laureles_error,Choque,Lote baldio,Seco,1
+18,El Poblado,Choque,Paso Elevado,Seco,0
+6,Castilla,Caida ocupante,Interseccion,Seco,0
+20,El Poblado,Choque,Lote baldio,Seco,0
+8,Robledo,Choque,Tramo de via,Lluvia,0
+6,Laureles_error,Choque,Lote baldio,Lluvia,0
+17,El Poblado,Choque,Tramo de via,Seco,0
+3,Laureles_error,Caida ocupante,Tramo de via,Niebla,1
+13,El Poblado,Atropello,Tramo de via,Lluvia,0
+17,Belen_Error,Atropello,Tramo de via,Lluvia,0
+8,Laureles_error,Choque,Tramo de via,Seco,1
+20,La Candelaria,Choque,Tramo de via,Seco,0
+1,Castilla,Choque,Interseccion,Seco,0
+19,El Poblado,Choque,Tramo de via,Seco,0
+14,Laureles_error,Choque,Tramo de via,Seco,0
+6,Castilla,Atropello,Interseccion,Seco,1
+11,Aranjuez,Choque,Tramo de via,Lluvia,1
+7,La Candelaria,Choque,Tramo de via,Lluvia,0
+14,Castilla,Choque,Interseccion,Niebla,0
+2,Aranjuez,Choque,Tramo de via,Seco,1
+13,El Poblado,Choque,Tramo de via,Seco,0
+16,La Candelaria,Otro,Paso Elevado,Seco,1
+3,Robledo,Caida ocupante,Tramo de via,Seco,1
+17,Aranjuez,Otro,Tramo de via,Seco,0
+7,Laureles_error,Choque,Glorieta,Seco,0
+3,Castilla,Choque,Interseccion,Seco,0
+1,Robledo,Choque,Tramo de via,Lluvia,1
+5,La Candelaria,Choque,Tramo de via,Seco,0
+21,El Poblado,Caida ocupante,Tramo de via,Lluvia,1
+9,La Candelaria,Choque,Tramo de via,Seco,0
+3,Belen_Error,Choque,Tramo de via,Seco,0
+21,La Candelaria,Choque,Tramo de via,Seco,0
+17,Aranjuez,Choque,Lote baldio,Seco,1
+11,Robledo,Atropello,Tramo de via,Seco,1
+1,Castilla,Choque,Tramo de via,Seco,0
+9,El Poblado,Choque,Tramo de via,Seco,0
+3,Robledo,Choque,Interseccion,Seco,0
+13,La Candelaria,Choque,,,0
+15,Robledo,Atropello,Tramo de via,Niebla,0
+14,La Candelaria,Caida ocupante,Interseccion,Seco,0
+7,El Poblado,Otro,Tramo de via,Lluvia,1
+13,Robledo,Atropello,Tramo de via,Seco,0
+22,La Candelaria,Choque,Tramo de via,Niebla,1
+7,La Candelaria,Atropello,Tramo de via,Lluvia,0
+20,Belen_Error,Choque,Tramo de via,Seco,0
+15,Belen_Error,Choque,Tramo de via,Seco,0
+12,Aranjuez,Caida ocupante,Tramo de via,Lluvia,0
+17,Belen_Error,Choque,Tramo de via,Seco,0
+14,Laureles_error,Volcamiento,Interseccion,Seco,0
+20,El Poblado,Choque,Lote baldio,Seco,0
+23,El Poblado,Atropello,Interseccion,Lluvia,1
+12,La Candelaria,Atropello,Glorieta,Lluvia,1
+8,Castilla,Caida ocupante,Tramo de via,Seco,0
+14,Aranjuez,Atropello,Lote baldio,Seco,1
+12,Laureles_error,Atropello,Tramo de via,Seco,1
+0,Laureles_error,Choque,Lote baldio,Seco,0
+6,Castilla,Choque,Lote baldio,DESCONOCIDO,0
+8,La Candelaria,Choque,Interseccion,Seco,0
+23,Aranjuez,Atropello,Lote baldio,Seco,1
+0,Laureles_error,Choque,Tramo de via,Seco,0
+11,Aranjuez,Atropello,Tramo de via,Lluvia,0
+7,La Candelaria,Choque,Tramo de via,Seco,0
+23,Castilla,Choque,Tramo de via,,0
+10,Castilla,Atropello,Tramo de via,Seco,0
+18,Aranjuez,Choque,Tramo de via,Seco,0
+16,Belen_Error,Choque,Lote baldio,Seco,0
+7,Castilla,Choque,Tramo de via,Seco,0
+2,Belen_Error,Otro,Interseccion,Seco,0
+2,La Candelaria,Atropello,Paso Elevado,Niebla,0
+0,Aranjuez,Choque,Paso Elevado,Lluvia,1
+4,Aranjuez,Choque,Lote baldio,DESCONOCIDO,0
+9,Laureles_error,Choque,Tramo de via,Seco,0
+6,Belen_Error,Atropello,Lote baldio,DESCONOCIDO,0
+8,Castilla,Atropello,Interseccion,Seco,0
+6,Castilla,Choque,Tramo de via,Seco,1
+8,Laureles_error,Choque,Tramo de via,Seco,0
+7,La Candelaria,Choque,Interseccion,Seco,1
+11,Manrique,Atropello,Tramo de via,Seco,0
+1,Robledo,Atropello,Tramo de via,Seco,1
+0,La Candelaria,Choque,Interseccion,Seco,0
+15,Castilla,Choque,Tramo de via,Seco,0
+22,Castilla,Choque,Tramo de via,Seco,1
+22,Laureles_error,Otro,Interseccion,Seco,1
+23,Aranjuez,Choque,Tramo de via,Seco,1
+4,El Poblado,Atropello,Tramo de via,Lluvia,1
+2,La Candelaria,Atropello,Tramo de via,Lluvia,1
+11,El Poblado,Choque,Tramo de via,Seco,0
+7,Robledo,Choque,Paso Elevado,Seco,0
+21,La Candelaria,Choque,Tramo de via,Seco,0
+2,El Poblado,Atropello,Tramo de via,Lluvia,1
+0,El Poblado,Atropello,Tramo de via,Seco,1
+2,Laureles_error,Atropello,Tramo de via,Seco,1
+4,Castilla,Choque,Interseccion,Seco,0
+14,El Poblado,Choque,Interseccion,Seco,0
+13,El Poblado,Otro,Tramo de via,Seco,0
+2,Belen_Error,Atropello,Tramo de via,Lluvia,1
+0,Laureles_error,Choque,Tramo de via,Seco,0
+4,La Candelaria,Otro,,,1
+22,Laureles_error,Atropello,Interseccion,Lluvia,1
+13,La Candelaria,Choque,Tramo de via,Lluvia,0
+6,La Candelaria,Atropello,Tramo de via,Seco,0
+8,Laureles_error,Caida ocupante,Tramo de via,Seco,0
+14,Laureles_error,Atropello,Paso Elevado,Seco,0
+14,Castilla,Choque,Lote baldio,Niebla,0
+9,El Poblado,Choque,Tramo de via,Seco,0
+12,Aranjuez,Volcamiento,Interseccion,Niebla,0
+18,Aranjuez,Choque,Tramo de via,Seco,0
+6,La Candelaria,Choque,Tramo de via,Seco,1
+16,Belen_Error,Choque,Interseccion,Seco,1
+19,La Candelaria,Choque,Paso Elevado,Seco,0
+3,Manrique,Atropello,Lote baldio,Seco,0
+4,La Candelaria,Volcamiento,Tramo de via,Seco,0
+22,Laureles_error,Choque,Tramo de via,Seco,0
+6,La Candelaria,Choque,Interseccion,DESCONOCIDO,1
+12,Manrique,Choque,Tramo de via,Seco,0
+14,Laureles_error,Caida ocupante,Tramo de via,Lluvia,0
+10,Aranjuez,Atropello,Tramo de via,Seco,0
+3,La Candelaria,Choque,Interseccion,Seco,1
+12,Belen_Error,Caida ocupante,Tramo de via,Seco,0
+6,La Candelaria,Caida ocupante,Tramo de via,Seco,0
+18,Castilla,Caida ocupante,Paso Elevado,Niebla,0
+21,La Candelaria,Volcamiento,Tramo de via,Seco,0
+1,La Candelaria,Choque,Tramo de via,Seco,0
+9,La Candelaria,Atropello,Tramo de via,Seco,0
+12,Laureles_error,Choque,Tramo de via,Seco,1
+20,Aranjuez,Caida ocupante,Tramo de via,Seco,1
+5,La Candelaria,Atropello,Tramo de via,Lluvia,1
+11,Robledo,Atropello,Glorieta,Lluvia,1
+11,Laureles_error,Atropello,Tramo de via,Seco,1
+19,Laureles_error,Choque,Lote baldio,Seco,0
+10,Laureles_error,Choque,Tramo de via,Seco,0
+22,Laureles_error,Otro,Tramo de via,Seco,0
+6,Aranjuez,Volcamiento,Tramo de via,Seco,0
+0,La Candelaria,Choque,Tramo de via,Seco,0
+0,La Candelaria,Choque,Interseccion,Seco,0
+19,Castilla,Choque,Tramo de via,,0
+12,Castilla,Atropello,Tramo de via,Seco,1
+8,El Poblado,Caida ocupante,Glorieta,Seco,0
+2,El Poblado,Choque,Paso Elevado,Seco,0
+6,Aranjuez,Choque,Glorieta,Seco,0
+5,Laureles_error,Caida ocupante,Tramo de via,Lluvia,0
+7,La Candelaria,Atropello,Interseccion,Seco,1
+8,La Candelaria,Choque,Tramo de via,Seco,0
+4,Belen_Error,Choque,Tramo de via,Seco,0
+0,Belen_Error,Choque,Tramo de via,Lluvia,1
+18,La Candelaria,Choque,Tramo de via,Seco,0
+9,La Candelaria,Choque,Tramo de via,Seco,0
+11,La Candelaria,Atropello,Tramo de via,Seco,0
+23,Belen_Error,Caida ocupante,Glorieta,Lluvia,1
+14,La Candelaria,Atropello,Tramo de via,DESCONOCIDO,1
+21,La Candelaria,Atropello,Tramo de via,Seco,0
+23,Robledo,Choque,Tramo de via,Lluvia,0
+8,La Candelaria,Choque,Paso Elevado,Niebla,1
+19,Belen_Error,Choque,Tramo de via,Niebla,0
+16,La Candelaria,Choque,Tramo de via,Seco,0
+16,La Candelaria,Atropello,Interseccion,Seco,0
+19,La Candelaria,Otro,Interseccion,Seco,0
+11,Belen_Error,Choque,Tramo de via,Lluvia,0
+6,Castilla,Choque,Interseccion,Seco,0
+1,Robledo,Caida ocupante,Interseccion,Seco,1
+2,El Poblado,Choque,Interseccion,Seco,0
+16,Belen_Error,Choque,Tramo de via,Lluvia,0
+4,La Candelaria,Atropello,Glorieta,Lluvia,1
+16,El Poblado,Atropello,Tramo de via,Seco,0
+23,Castilla,Choque,Tramo de via,Lluvia,0
+16,La Candelaria,Choque,Tramo de via,Seco,0
+16,La Candelaria,Atropello,Tramo de via,Lluvia,1
+1,La Candelaria,Choque,Tramo de via,Seco,0
+1,La Candelaria,Choque,Interseccion,Seco,1
+21,La Candelaria,Atropello,Tramo de via,Niebla,0
+22,Aranjuez,Choque,Tramo de via,Seco,0
+4,Laureles_error,Atropello,Tramo de via,,1
+0,Castilla,Choque,Tramo de via,Seco,0
+0,Robledo,Otro,Lote baldio,Seco,1
+18,El Poblado,Choque,Tramo de via,Seco,0
+1,El Poblado,Choque,Tramo de via,Seco,1
+20,El Poblado,Choque,Tramo de via,Seco,0
+11,Aranjuez,Choque,Tramo de via,Seco,0
+5,El Poblado,Caida ocupante,Tramo de via,Seco,0
+22,Aranjuez,Otro,Interseccion,Seco,1
+3,Laureles_error,Choque,Lote baldio,DESCONOCIDO,0
+22,Aranjuez,Choque,Tramo de via,DESCONOCIDO,0
+10,Laureles_error,Atropello,Interseccion,Seco,1
+23,El Poblado,Caida ocupante,Interseccion,Lluvia,1
+16,Castilla,Choque,Interseccion,Seco,0
+5,Robledo,Choque,Tramo de via,Seco,1
+23,La Candelaria,Choque,Tramo de via,Lluvia,1
+4,Castilla,Atropello,Tramo de via,Niebla,1
+19,Laureles_error,Choque,Interseccion,Seco,0
+1,Castilla,Atropello,Interseccion,Lluvia,1
+5,Robledo,Choque,Tramo de via,Seco,1
+21,Laureles_error,Atropello,Tramo de via,DESCONOCIDO,0
+10,La Candelaria,Choque,Paso Elevado,Seco,0
+15,El Poblado,Choque,Interseccion,Seco,0
+15,Laureles_error,Choque,Lote baldio,Seco,0
+0,Aranjuez,Atropello,Interseccion,Seco,1
+8,El Poblado,Choque,Tramo de via,,1
+5,La Candelaria,Choque,Tramo de via,Niebla,0
+15,Robledo,Choque,Interseccion,Seco,0
+2,Manrique,Choque,Tramo de via,Seco,1
+19,Laureles_error,Atropello,Tramo de via,Seco,0
+3,La Candelaria,Atropello,Interseccion,Seco,1
+18,El Poblado,Caida ocupante,Tramo de via,Seco,0
+2,La Candelaria,Choque,Interseccion,Seco,1
+18,Castilla,Caida ocupante,Tramo de via,Seco,0
+19,La Candelaria,Choque,Lote baldio,Seco,0
+6,Aranjuez,Choque,Tramo de via,Seco,0
+19,El Poblado,Choque,Tramo de via,Lluvia,0
+8,Aranjuez,Choque,Tramo de via,Lluvia,0
+0,Belen_Error,Atropello,Tramo de via,Seco,1
+7,Robledo,Atropello,Interseccion,Seco,1
+6,La Candelaria,Atropello,Interseccion,Seco,1
+17,La Candelaria,Choque,Tramo de via,Seco,1
+7,La Candelaria,Choque,Tramo de via,Seco,0
+0,Castilla,Choque,Tramo de via,Seco,1
+10,Castilla,Choque,Tramo de via,Seco,0
+17,Aranjuez,Choque,Paso Elevado,Seco,0
+22,Aranjuez,Choque,Interseccion,Seco,0
+9,Belen_Error,Choque,Interseccion,Lluvia,0
+2,La Candelaria,Choque,Interseccion,DESCONOCIDO,1
+6,Castilla,Atropello,Tramo de via,Seco,1
+15,Laureles_error,Otro,Paso Elevado,Seco,0
+15,El Poblado,Volcamiento,Interseccion,Lluvia,1
+19,Laureles_error,Atropello,Interseccion,Niebla,1
+16,La Candelaria,Choque,Glorieta,Seco,0
+1,La Candelaria,Atropello,Tramo de via,Seco,1
+0,Belen_Error,Atropello,Interseccion,Seco,1
+15,La Candelaria,Choque,Tramo de via,Seco,0
+11,Aranjuez,Choque,Tramo de via,Seco,0
+4,La Candelaria,Caida ocupante,Tramo de via,Seco,0
+4,El Poblado,Choque,Lote baldio,Seco,1
+22,El Poblado,Choque,Glorieta,Seco,0
+8,El Poblado,Choque,Interseccion,Lluvia,0
+8,Belen_Error,Choque,Interseccion,Seco,1
+2,El Poblado,Choque,Tramo de via,Seco,1
+18,Aranjuez,Choque,Paso Elevado,Seco,1
+15,Laureles_error,Choque,Tramo de via,Seco,0
+15,Belen_Error,Choque,Tramo de via,DESCONOCIDO,0
+2,Castilla,Caida ocupante,Tramo de via,Seco,1
+19,Belen_Error,Choque,Interseccion,Seco,0
+23,La Candelaria,Choque,Interseccion,Lluvia,1
+21,La Candelaria,Choque,,,0
+23,El Poblado,Volcamiento,Tramo de via,Niebla,0
+0,Aranjuez,Choque,Interseccion,Seco,0
+23,La Candelaria,Choque,Tramo de via,Seco,0
+19,Laureles_error,Caida ocupante,Interseccion,Seco,0
+10,Aranjuez,Caida ocupante,Lote baldio,Seco,0
+16,El Poblado,Choque,Tramo de via,Lluvia,1
+7,Robledo,Caida ocupante,Tramo de via,Lluvia,0
+3,La Candelaria,Choque,Interseccion,Seco,1
+5,La Candelaria,Choque,Interseccion,Seco,1
+7,Belen_Error,Choque,Tramo de via,Lluvia,0
+19,Laureles_error,Choque,Lote baldio,Niebla,0
+2,Belen_Error,Atropello,Tramo de via,Seco,1
+15,Laureles_error,Choque,Tramo de via,Seco,0
+2,La Candelaria,Choque,Interseccion,Seco,1
+17,Robledo,Atropello,Glorieta,Lluvia,1
+13,Robledo,Atropello,Tramo de via,Seco,1
+17,Belen_Error,Choque,Interseccion,Seco,0
+1,El Poblado,Atropello,Tramo de via,Lluvia,1
+21,Aranjuez,Choque,Tramo de via,Seco,0
+2,El Poblado,Atropello,Tramo de via,Seco,0
+15,La Candelaria,Atropello,Glorieta,Seco,1
+8,Castilla,Otro,Tramo de via,Seco,0
+3,La Candelaria,Choque,Tramo de via,Seco,0
+0,Manrique,Choque,Tramo de via,Seco,1
+3,Laureles_error,Choque,Glorieta,Seco,0
+0,La Candelaria,Choque,Interseccion,Seco,1
+13,Laureles_error,Choque,Interseccion,Lluvia,0
+20,Castilla,Volcamiento,Tramo de via,Lluvia,1
+15,Belen_Error,Choque,Tramo de via,Seco,0
+19,Robledo,Choque,Tramo de via,Seco,0
+23,Belen_Error,Atropello,Interseccion,Seco,0
+7,Belen_Error,Choque,Paso Elevado,Seco,0
+6,Robledo,Atropello,Tramo de via,Seco,1
+2,La Candelaria,Choque,Interseccion,Seco,0
+16,Laureles_error,Choque,Tramo de via,Seco,0
+0,La Candelaria,Choque,Tramo de via,Seco,0
+15,Manrique,Choque,Tramo de via,Seco,0
+11,Castilla,Volcamiento,Tramo de via,Seco,0
+18,La Candelaria,Choque,,,0
+21,Belen_Error,Choque,Tramo de via,Seco,0
+22,Castilla,Choque,Tramo de via,Seco,0
+21,La Candelaria,Choque,Interseccion,Lluvia,0
+13,Aranjuez,Caida ocupante,Tramo de via,Lluvia,0
+5,Castilla,Choque,Tramo de via,Seco,0
+5,La Candelaria,Atropello,Interseccion,Seco,1
+12,Belen_Error,Otro,Tramo de via,Seco,0
+18,El Poblado,Choque,Tramo de via,Seco,0
+21,Castilla,Volcamiento,Interseccion,Seco,1
+7,Manrique,Choque,Tramo de via,Lluvia,0
+1,Castilla,Choque,Tramo de via,Seco,1
+20,Laureles_error,Choque,Tramo de via,Lluvia,0
+0,Castilla,Atropello,Paso Elevado,Seco,1
+14,Robledo,Otro,Tramo de via,Seco,0
+0,El Poblado,Choque,Interseccion,Lluvia,1
+4,Robledo,Atropello,Tramo de via,Seco,0
+15,La Candelaria,Choque,Tramo de via,Seco,0
+18,Aranjuez,Choque,Tramo de via,Seco,0
+3,La Candelaria,Choque,Interseccion,Seco,1
+2,La Candelaria,Otro,Tramo de via,DESCONOCIDO,1
+16,La Candelaria,Atropello,Tramo de via,Seco,0
+16,Belen_Error,Choque,Tramo de via,DESCONOCIDO,0
+11,El Poblado,Choque,Tramo de via,DESCONOCIDO,0
+13,Belen_Error,Choque,Lote baldio,Lluvia,1
+20,La Candelaria,Choque,Tramo de via,Seco,0
+5,El Poblado,Choque,Tramo de via,Seco,1
+2,Laureles_error,Caida ocupante,Tramo de via,Lluvia,1
+8,Robledo,Choque,Lote baldio,Seco,0
+4,El Poblado,Choque,Tramo de via,Seco,0
+23,Aranjuez,Choque,Tramo de via,Seco,0
+16,Castilla,Caida ocupante,Interseccion,Seco,0
+13,Aranjuez,Atropello,Interseccion,Seco,1
+20,La Candelaria,Choque,Tramo de via,Seco,0
+2,La Candelaria,Atropello,Tramo de via,Seco,1
+0,Castilla,Choque,Tramo de via,Lluvia,0
+19,La Candelaria,Choque,Tramo de via,Seco,0
+20,Castilla,Choque,Tramo de via,Niebla,0
+22,Laureles_error,Choque,Tramo de via,Seco,1
+0,Castilla,Choque,Tramo de via,Lluvia,0
+2,Robledo,Volcamiento,Tramo de via,Seco,0
+17,Manrique,Caida ocupante,Interseccion,Lluvia,0
+9,El Poblado,Atropello,Lote baldio,Seco,1
+21,Robledo,Choque,Tramo de via,Lluvia,0
+2,Laureles_error,Choque,Tramo de via,Seco,0
+7,Laureles_error,Atropello,Tramo de via,Lluvia,1
+13,Aranjuez,Choque,Lote baldio,DESCONOCIDO,0
+23,Castilla,Choque,Tramo de via,Seco,1
+17,Manrique,Choque,Tramo de via,Seco,1
+14,Robledo,Caida ocupante,Tramo de via,Lluvia,0
+21,Laureles_error,Choque,Tramo de via,Seco,0
+22,Laureles_error,Choque,Tramo de via,Lluvia,1
+1,Belen_Error,Atropello,Tramo de via,,0
+9,La Candelaria,Choque,Tramo de via,Seco,0
+1,La Candelaria,Choque,Lote baldio,DESCONOCIDO,0
+16,El Poblado,Choque,Tramo de via,Seco,1
+7,El Poblado,Choque,Interseccion,Lluvia,0
+0,El Poblado,Atropello,Interseccion,Seco,1
+8,La Candelaria,Choque,Tramo de via,Seco,0
+10,La Candelaria,Choque,Tramo de via,Seco,0
+21,La Candelaria,Caida ocupante,Tramo de via,Seco,0
+15,Manrique,Caida ocupante,Tramo de via,Seco,1
+6,Laureles_error,Caida ocupante,Glorieta,Seco,0
+9,El Poblado,Choque,Paso Elevado,Seco,0
+22,Belen_Error,Choque,Tramo de via,Seco,0
+2,La Candelaria,Otro,Tramo de via,Lluvia,1
+17,Castilla,Atropello,Paso Elevado,Seco,0
+23,Robledo,Choque,Interseccion,Seco,0
+12,La Candelaria,Choque,Glorieta,Seco,0
+6,Laureles_error,Choque,Tramo de via,Seco,0
+3,Castilla,Volcamiento,Tramo de via,Lluvia,0
+12,Castilla,Choque,Interseccion,Seco,0
+19,Laureles_error,Choque,Interseccion,Seco,0
+0,Aranjuez,Choque,Tramo de via,Seco,1
+7,La Candelaria,Atropello,Tramo de via,Seco,0
+13,Manrique,Caida ocupante,Tramo de via,Lluvia,0
+15,La Candelaria,Choque,Tramo de via,Seco,0
+13,Castilla,Atropello,Tramo de via,Lluvia,0
+11,Aranjuez,Otro,Lote baldio,Seco,0
+18,Aranjuez,Choque,Tramo de via,Seco,0
+22,Laureles_error,Choque,Interseccion,Niebla,0
+14,La Candelaria,Choque,Tramo de via,Seco,0
+1,La Candelaria,Atropello,Interseccion,Seco,1
+1,La Candelaria,Choque,Lote baldio,Seco,1
+22,La Candelaria,Atropello,Tramo de via,Seco,1
+21,Robledo,Atropello,Tramo de via,Seco,0
+18,El Poblado,Choque,Tramo de via,Seco,0
+21,La Candelaria,Volcamiento,Tramo de via,Seco,0
+21,Manrique,Choque,Interseccion,Seco,0
+16,Castilla,Choque,Paso Elevado,Seco,0
+19,Castilla,Atropello,Tramo de via,Seco,0
+9,Manrique,Atropello,Tramo de via,Seco,0
+5,La Candelaria,Choque,,,0
+14,El Poblado,Caida ocupante,Interseccion,DESCONOCIDO,0
+21,Robledo,Volcamiento,Tramo de via,Seco,0
+10,Belen_Error,Choque,Tramo de via,Lluvia,0
+4,La Candelaria,Otro,Tramo de via,Seco,1
+0,Robledo,Choque,Tramo de via,Seco,1
+7,La Candelaria,Choque,Tramo de via,Seco,1
+20,La Candelaria,Choque,Interseccion,Seco,0
+11,Laureles_error,Caida ocupante,Tramo de via,Seco,0
+11,Aranjuez,Atropello,Tramo de via,Seco,0
+4,Aranjuez,Choque,Glorieta,Seco,0
+6,La Candelaria,Choque,Interseccion,Niebla,0
+3,Castilla,Atropello,Tramo de via,Seco,1
+5,El Poblado,Choque,Tramo de via,Seco,1
+12,La Candelaria,Caida ocupante,Tramo de via,Lluvia,0
+19,Castilla,Caida ocupante,Tramo de via,Seco,0
+14,Manrique,Choque,Tramo de via,Seco,1
+2,Castilla,Otro,Tramo de via,Seco,0
+22,Robledo,Choque,Tramo de via,Niebla,0
+7,Belen_Error,Otro,Interseccion,Lluvia,1
+19,Aranjuez,Atropello,Tramo de via,Seco,1
+15,La Candelaria,Atropello,Interseccion,Seco,1
+12,Laureles_error,Choque,Tramo de via,Niebla,0
+17,El Poblado,Caida ocupante,Lote baldio,Seco,0
+9,El Poblado,Choque,Interseccion,Seco,1
+18,Belen_Error,Choque,Interseccion,Seco,0
+16,Laureles_error,Choque,Interseccion,Seco,0
+23,La Candelaria,Choque,Paso Elevado,Seco,0
+18,La Candelaria,Choque,Tramo de via,Seco,0
+22,Belen_Error,Atropello,Tramo de via,Seco,1
+4,La Candelaria,Caida ocupante,Tramo de via,Seco,0
+20,Castilla,Choque,Interseccion,Lluvia,1
+22,Laureles_error,Atropello,Interseccion,Seco,0
+8,Laureles_error,Choque,Tramo de via,Seco,0
+11,Aranjuez,Caida ocupante,Tramo de via,Seco,1
+20,Robledo,Caida ocupante,Tramo de via,Seco,0
+0,El Poblado,Choque,Paso Elevado,Seco,0
+0,Belen_Error,Atropello,Tramo de via,Seco,1
+14,Aranjuez,Choque,Tramo de via,Lluvia,0
+1,El Poblado,Choque,Tramo de via,Niebla,0
+21,Castilla,Caida ocupante,Tramo de via,Seco,0
+15,Robledo,Choque,Glorieta,Seco,0
+7,Belen_Error,Choque,Interseccion,Seco,1
+12,Castilla,Choque,Interseccion,Lluvia,1
+20,Castilla,Caida ocupante,Tramo de via,Lluvia,0
+0,Belen_Error,Choque,Tramo de via,Seco,0
+15,Robledo,Choque,Tramo de via,Seco,0
+6,Belen_Error,Atropello,Interseccion,Lluvia,1
+4,Belen_Error,Caida ocupante,Tramo de via,Seco,1
+21,Aranjuez,Choque,Tramo de via,Seco,0
+22,Robledo,Choque,Tramo de via,Seco,0
+2,La Candelaria,Choque,Paso Elevado,Seco,0
+11,Castilla,Choque,Tramo de via,Lluvia,0
+15,Castilla,Choque,Interseccion,DESCONOCIDO,0
+18,La Candelaria,Atropello,Tramo de via,Seco,0
+4,Robledo,Atropello,Tramo de via,Seco,1
+21,La Candelaria,Atropello,Tramo de via,Seco,0
+13,El Poblado,Choque,Tramo de via,Seco,0
+4,Belen_Error,Caida ocupante,Tramo de via,Seco,0
+14,La Candelaria,Choque,Tramo de via,Seco,0
+16,Robledo,Otro,Tramo de via,Seco,1
+13,Robledo,Atropello,Paso Elevado,Seco,0
+19,Laureles_error,Choque,Tramo de via,Seco,0
+4,La Candelaria,Atropello,Interseccion,Seco,1
+11,El Poblado,Choque,Tramo de via,Seco,0
+15,Aranjuez,Atropello,Interseccion,Seco,1
+15,Manrique,Choque,Tramo de via,DESCONOCIDO,0
+20,Aranjuez,Choque,Tramo de via,Seco,0
+6,El Poblado,Caida ocupante,Tramo de via,Seco,0
+3,Aranjuez,Choque,Tramo de via,Lluvia,1
+0,Laureles_error,Caida ocupante,Tramo de via,DESCONOCIDO,1
+4,Robledo,Choque,Interseccion,Seco,1
+22,La Candelaria,Atropello,Glorieta,Lluvia,1
+9,Robledo,Atropello,Interseccion,Seco,1
+21,Laureles_error,Choque,Interseccion,Seco,1
+4,Manrique,Choque,Tramo de via,Seco,0
+3,El Poblado,Choque,Tramo de via,Seco,1
+1,Aranjuez,Choque,Tramo de via,Seco,0
+19,Castilla,Choque,Tramo de via,Seco,1
+9,La Candelaria,Atropello,Tramo de via,Seco,1
+18,Castilla,Volcamiento,Tramo de via,Seco,1
+0,Belen_Error,Caida ocupante,Tramo de via,Seco,1
+23,La Candelaria,Atropello,Tramo de via,Seco,1
+4,El Poblado,Atropello,Interseccion,Seco,1
+12,Belen_Error,Atropello,Interseccion,Lluvia,1
+3,La Candelaria,Choque,Tramo de via,Lluvia,1
+15,Aranjuez,Volcamiento,Paso Elevado,Lluvia,0
+23,El Poblado,Atropello,Lote baldio,Seco,1
+15,Aranjuez,Choque,Tramo de via,Lluvia,1
+22,La Candelaria,Choque,Tramo de via,Seco,0
+1,Castilla,Choque,Tramo de via,Seco,1
+16,Manrique,Choque,Paso Elevado,Seco,0
+19,Manrique,Caida ocupante,Glorieta,Seco,0
+23,Belen_Error,Choque,Tramo de via,Seco,0
+11,La Candelaria,Choque,Tramo de via,Seco,0
+17,Robledo,Otro,Tramo de via,Lluvia,0
+2,La Candelaria,Choque,Tramo de via,Seco,1
+0,La Candelaria,Choque,Tramo de via,Seco,1
+0,El Poblado,Choque,Glorieta,DESCONOCIDO,1
+18,Laureles_error,Atropello,Interseccion,Seco,1
+10,Robledo,Volcamiento,Interseccion,Seco,0
+4,Belen_Error,Choque,Glorieta,Seco,1
+11,Laureles_error,Caida ocupante,,,0
+2,El Poblado,Choque,Tramo de via,Seco,1
+0,Manrique,Volcamiento,Tramo de via,Seco,0
+0,Laureles_error,Atropello,Tramo de via,Seco,1
+7,Laureles_error,Caida ocupante,Interseccion,Seco,0
+9,La Candelaria,Choque,Tramo de via,Seco,0
+10,Robledo,Otro,Interseccion,Seco,0
+11,Belen_Error,Atropello,Tramo de via,Seco,0
+12,La Candelaria,Choque,,,0
+11,La Candelaria,Caida ocupante,Tramo de via,Seco,0
+13,Belen_Error,Choque,Tramo de via,Seco,0
+1,Belen_Error,Caida ocupante,Interseccion,Seco,0
+18,El Poblado,Choque,Interseccion,Seco,0
+17,Manrique,Atropello,Tramo de via,Seco,0
+2,La Candelaria,Choque,Tramo de via,,0
+22,Laureles_error,Choque,Tramo de via,Lluvia,0
+16,Castilla,Choque,Tramo de via,Lluvia,0
+7,Laureles_error,Choque,Tramo de via,Seco,0
+9,Aranjuez,Choque,Glorieta,Lluvia,0
+1,El Poblado,Choque,Tramo de via,Seco,0
+18,El Poblado,Choque,Tramo de via,Seco,0
+8,Manrique,Choque,Tramo de via,Seco,0
+6,Laureles_error,Choque,Tramo de via,Seco,0
+3,Castilla,Atropello,Tramo de via,Lluvia,1
+20,La Candelaria,Choque,Tramo de via,Seco,0
+17,La Candelaria,Volcamiento,Tramo de via,Seco,0
+12,La Candelaria,Caida ocupante,Tramo de via,Niebla,0
+10,Belen_Error,Atropello,Tramo de via,Seco,0
+23,El Poblado,Choque,Tramo de via,Seco,0
+3,Castilla,Caida ocupante,Tramo de via,Seco,1
+20,Laureles_error,Choque,Lote baldio,Lluvia,0
+3,Manrique,Choque,Tramo de via,Lluvia,0
+9,La Candelaria,Choque,Tramo de via,Seco,0
+4,Castilla,Atropello,Tramo de via,Seco,1
+8,Robledo,Choque,Tramo de via,Seco,0
+23,Robledo,Choque,Tramo de via,Lluvia,1
+2,Robledo,Otro,Interseccion,,1
+16,Robledo,Caida ocupante,Interseccion,Seco,0
+2,Aranjuez,Choque,Tramo de via,Niebla,0
+15,La Candelaria,Choque,Tramo de via,Seco,0
+3,La Candelaria,Caida ocupante,Tramo de via,Seco,1
+17,Castilla,Choque,Glorieta,Seco,0
+16,Aranjuez,Choque,Tramo de via,DESCONOCIDO,0
+6,Robledo,Choque,Tramo de via,Seco,0
+23,Laureles_error,Volcamiento,Tramo de via,Seco,1
+22,La Candelaria,Atropello,Tramo de via,Seco,1
+4,La Candelaria,Caida ocupante,Tramo de via,Seco,0
+11,Belen_Error,Caida ocupante,Tramo de via,Seco,0
+16,Laureles_error,Choque,Tramo de via,Seco,0
+22,La Candelaria,Choque,Interseccion,DESCONOCIDO,0
+12,Laureles_error,Choque,Tramo de via,Seco,0
+22,La Candelaria,Choque,Tramo de via,Seco,0
+2,Aranjuez,Choque,Glorieta,Seco,1
+8,El Poblado,Atropello,Tramo de via,Seco,0
+16,Robledo,Atropello,Tramo de via,Lluvia,1
+16,El Poblado,Caida ocupante,Tramo de via,Seco,0
+19,Laureles_error,Choque,Tramo de via,Seco,0
+15,La Candelaria,Atropello,Interseccion,Seco,1
+21,La Candelaria,Atropello,Tramo de via,Seco,1
+12,El Poblado,Choque,Tramo de via,Seco,0
+18,Laureles_error,Atropello,Tramo de via,Seco,0
+16,Aranjuez,Choque,Tramo de via,Lluvia,1
+3,El Poblado,Choque,Interseccion,Niebla,0
+11,Belen_Error,Choque,Tramo de via,Seco,0
+8,Castilla,Choque,Tramo de via,DESCONOCIDO,0
+18,Robledo,Choque,Interseccion,Seco,0
+11,La Candelaria,Atropello,Tramo de via,Seco,1
+8,Laureles_error,Otro,Interseccion,Seco,0
+6,La Candelaria,Atropello,Interseccion,Seco,0
+13,La Candelaria,Atropello,Interseccion,Seco,0
+19,Manrique,Choque,Tramo de via,Seco,0
+18,La Candelaria,Atropello,Tramo de via,Seco,1
+14,Laureles_error,Choque,Interseccion,Seco,0
+15,Aranjuez,Choque,Tramo de via,Seco,1
+20,Belen_Error,Choque,Tramo de via,Lluvia,0
+4,Aranjuez,Choque,Glorieta,Seco,0
+2,La Candelaria,Choque,Glorieta,Seco,1
+11,El Poblado,Choque,Tramo de via,Seco,0
+19,Laureles_error,Choque,Tramo de via,Seco,0
+20,La Candelaria,Otro,Tramo de via,Lluvia,1
+3,El Poblado,Choque,Interseccion,Seco,0
+20,La Candelaria,Choque,Paso Elevado,Seco,0
+22,La Candelaria,Choque,Tramo de via,Lluvia,1
+15,El Poblado,Atropello,Tramo de via,Seco,0
+6,La Candelaria,Choque,Glorieta,Seco,0
+12,Aranjuez,Choque,Tramo de via,Seco,0
+20,Belen_Error,Choque,Tramo de via,Niebla,0
+9,Robledo,Choque,Lote baldio,Seco,0
+6,La Candelaria,Choque,Tramo de via,Seco,0
+13,La Candelaria,Choque,Tramo de via,Seco,0
+4,La Candelaria,Choque,Tramo de via,Seco,1
+2,Aranjuez,Choque,Tramo de via,Seco,0
+22,Belen_Error,Choque,Interseccion,Seco,0
+10,La Candelaria,Caida ocupante,Tramo de via,Seco,0
+10,Castilla,Choque,Lote baldio,Niebla,0
+17,La Candelaria,Choque,Tramo de via,Lluvia,1
+14,Laureles_error,Choque,Tramo de via,Seco,0
+11,Belen_Error,Volcamiento,Tramo de via,Lluvia,0
+8,Castilla,Choque,Tramo de via,Seco,0
+9,Belen_Error,Choque,Tramo de via,Seco,0
+11,Robledo,Atropello,Tramo de via,Seco,0
+16,El Poblado,Choque,Tramo de via,Lluvia,1
+5,Robledo,Choque,Tramo de via,Lluvia,1
+6,La Candelaria,Choque,Interseccion,Seco,0
+13,Castilla,Caida ocupante,Interseccion,Niebla,0
+12,Laureles_error,Choque,Interseccion,Seco,1
+7,Robledo,Atropello,Tramo de via,Lluvia,1
+9,Laureles_error,Otro,Tramo de via,DESCONOCIDO,0
+8,Aranjuez,Choque,Interseccion,Seco,0
+17,Laureles_error,Choque,Tramo de via,Lluvia,0
+1,Belen_Error,Choque,Tramo de via,Seco,1
+4,La Candelaria,Choque,Interseccion,Seco,0
+4,La Candelaria,Choque,Interseccion,Seco,1
+5,La Candelaria,Volcamiento,,,0
+18,La Candelaria,Atropello,Tramo de via,Niebla,0
+7,Castilla,Atropello,Interseccion,Seco,1
+15,La Candelaria,Choque,Tramo de via,Seco,1
+12,Manrique,Caida ocupante,Interseccion,Lluvia,0
+0,El Poblado,Otro,Interseccion,DESCONOCIDO,1
+21,La Candelaria,Caida ocupante,Interseccion,Seco,0
+19,Robledo,Choque,Tramo de via,DESCONOCIDO,0
+16,Belen_Error,Atropello,Tramo de via,Seco,0
+6,Laureles_error,Choque,Interseccion,Lluvia,0
+12,Aranjuez,Choque,,,0
+3,Belen_Error,Choque,Interseccion,Seco,0
+3,La Candelaria,Atropello,Tramo de via,Seco,0
+5,Manrique,Atropello,Tramo de via,Seco,1
+18,Manrique,Choque,Glorieta,Seco,1
+11,Belen_Error,Choque,Interseccion,Seco,1
+21,La Candelaria,Choque,Paso Elevado,Seco,0
+6,Belen_Error,Choque,Interseccion,Niebla,0
+9,La Candelaria,Choque,Tramo de via,Seco,1
+18,La Candelaria,Choque,Interseccion,Seco,0
+6,El Poblado,Atropello,Glorieta,Seco,1
+2,Laureles_error,Choque,Tramo de via,Seco,1
+12,Castilla,Choque,Tramo de via,Lluvia,0
+12,Belen_Error,Choque,Tramo de via,Lluvia,0
+17,Belen_Error,Volcamiento,Tramo de via,Seco,1
+19,Laureles_error,Atropello,Interseccion,Seco,1
+7,El Poblado,Atropello,Tramo de via,Lluvia,0
+8,El Poblado,Choque,Tramo de via,Seco,0
+6,Manrique,Choque,Tramo de via,Lluvia,0
+0,La Candelaria,Choque,Tramo de via,Seco,1
+2,Castilla,Atropello,Tramo de via,Lluvia,1
+12,Aranjuez,Volcamiento,Tramo de via,Seco,1
+16,Laureles_error,Atropello,Paso Elevado,Seco,0
+23,Belen_Error,Caida ocupante,Tramo de via,DESCONOCIDO,0
+0,Laureles_error,Atropello,,,1
+5,Castilla,Choque,Tramo de via,Seco,0
+20,Castilla,Volcamiento,Interseccion,Seco,0
+5,Laureles_error,Choque,Tramo de via,Seco,1
+11,El Poblado,Choque,Interseccion,Seco,1
+12,Aranjuez,Choque,Interseccion,Seco,0
+12,Castilla,Choque,Interseccion,Seco,0
+14,La Candelaria,Choque,Tramo de via,Seco,0
+20,Aranjuez,Choque,Interseccion,Lluvia,0
+15,Aranjuez,Choque,Tramo de via,Seco,0
+21,Belen_Error,Choque,Paso Elevado,Seco,0
+20,La Candelaria,Choque,Tramo de via,Seco,1
+10,Belen_Error,Choque,Tramo de via,Seco,0
+4,Castilla,Choque,Tramo de via,Seco,0
+3,La Candelaria,Choque,Tramo de via,Seco,1
+2,La Candelaria,Atropello,Interseccion,Seco,1
+18,Manrique,Atropello,Tramo de via,Seco,0
+19,La Candelaria,Caida ocupante,Tramo de via,Seco,0
+17,Castilla,Atropello,,,0
+14,Laureles_error,Choque,Interseccion,Seco,0
+8,La Candelaria,Atropello,Interseccion,Seco,1
+16,Castilla,Choque,Interseccion,Seco,0
+13,Laureles_error,Choque,Interseccion,Seco,0
+14,Laureles_error,Atropello,Tramo de via,Lluvia,1
+0,El Poblado,Choque,Tramo de via,Seco,1
+20,Aranjuez,Atropello,Interseccion,Seco,0
+21,La Candelaria,Caida ocupante,Tramo de via,Seco,0
+21,El Poblado,Caida ocupante,Tramo de via,Seco,0
+2,Manrique,Volcamiento,Tramo de via,Seco,0
+15,El Poblado,Choque,Tramo de via,Seco,0
+22,Belen_Error,Choque,Tramo de via,Lluvia,1
+10,El Poblado,Choque,Glorieta,Seco,0
+11,Robledo,Choque,Tramo de via,DESCONOCIDO,0
+9,La Candelaria,Atropello,Tramo de via,Seco,1
+15,Manrique,Atropello,Tramo de via,Seco,1
+7,Laureles_error,Atropello,Interseccion,Seco,1
+5,La Candelaria,Choque,Tramo de via,Seco,0
+11,La Candelaria,Choque,Glorieta,Seco,0
+23,La Candelaria,Choque,Glorieta,Seco,1
+20,Laureles_error,Choque,Tramo de via,Seco,0
+7,El Poblado,Caida ocupante,Paso Elevado,Niebla,0
+3,Robledo,Choque,Lote baldio,Lluvia,0
+7,Laureles_error,Choque,Interseccion,Seco,0
+17,La Candelaria,Choque,Interseccion,Seco,0
+4,Aranjuez,Atropello,Tramo de via,Seco,1
+8,Belen_Error,Atropello,Tramo de via,Seco,1
+3,La Candelaria,Choque,Tramo de via,Seco,0
+21,La Candelaria,Choque,Tramo de via,Seco,1
+16,La Candelaria,Choque,Lote baldio,Seco,1
+8,Belen_Error,Choque,Tramo de via,Seco,0
+0,Belen_Error,Atropello,Interseccion,DESCONOCIDO,1
+20,Laureles_error,Atropello,Interseccion,Seco,1
+19,Robledo,Choque,Glorieta,Niebla,1
+12,Robledo,Choque,Lote baldio,Seco,0
+15,Aranjuez,Otro,Tramo de via,Seco,0
+12,Castilla,Choque,Tramo de via,Seco,0
+13,La Candelaria,Atropello,Tramo de via,Seco,1
+2,La Candelaria,Choque,Tramo de via,Seco,0
+5,El Poblado,Choque,Tramo de via,Seco,1
+17,La Candelaria,Choque,Tramo de via,Seco,0
+18,Laureles_error,Choque,Interseccion,Seco,0
+4,Castilla,Otro,Tramo de via,Seco,0
+14,La Candelaria,Choque,Tramo de via,Seco,0
+1,La Candelaria,Choque,Interseccion,Seco,0
+9,Laureles_error,Choque,Tramo de via,Seco,0
+23,Castilla,Choque,Tramo de via,Seco,0
+17,El Poblado,Choque,Interseccion,Seco,0
+12,Laureles_error,Choque,Tramo de via,DESCONOCIDO,0
+4,La Candelaria,Atropello,Interseccion,Seco,1
+22,La Candelaria,Choque,Tramo de via,Lluvia,1
+23,Manrique,Choque,Interseccion,Seco,0
+0,Manrique,Volcamiento,Tramo de via,Seco,0
+21,La Candelaria,Choque,Tramo de via,Seco,1
+0,Manrique,Otro,Tramo de via,Seco,0
+17,Aranjuez,Choque,Glorieta,Seco,0
+14,Castilla,Caida ocupante,Tramo de via,Lluvia,0
+16,Laureles_error,Atropello,Tramo de via,Seco,1
+10,Laureles_error,Caida ocupante,,,0
+20,Laureles_error,Otro,Interseccion,Seco,0
+21,Belen_Error,Choque,Tramo de via,Niebla,0
+16,La Candelaria,Otro,,,0
+12,La Candelaria,Choque,Tramo de via,Seco,0
+0,El Poblado,Choque,Tramo de via,Seco,0
+1,Belen_Error,Choque,Tramo de via,Lluvia,1
+8,La Candelaria,Choque,Paso Elevado,DESCONOCIDO,0
+2,Belen_Error,Choque,Paso Elevado,Seco,1
+0,Manrique,Choque,Tramo de via,Lluvia,1
+20,La Candelaria,Choque,Tramo de via,Lluvia,0
+15,Belen_Error,Atropello,Tramo de via,Seco,0
+22,Laureles_error,Caida ocupante,Lote baldio,Seco,1
+5,Castilla,Choque,Lote baldio,Seco,0
+16,La Candelaria,Choque,Tramo de via,DESCONOCIDO,0
+4,Belen_Error,Choque,Interseccion,Seco,0
+4,Robledo,Choque,Interseccion,Lluvia,1
+5,Castilla,Choque,Tramo de via,Seco,0
+2,Belen_Error,Choque,Tramo de via,Lluvia,0
+20,Laureles_error,Choque,Tramo de via,Seco,0
+22,Aranjuez,Otro,Interseccion,Seco,0
+4,Castilla,Choque,Interseccion,Lluvia,0
+20,Aranjuez,Choque,Tramo de via,Lluvia,0
+4,La Candelaria,Choque,Paso Elevado,Lluvia,1
+9,Castilla,Choque,,,0
+9,Belen_Error,Choque,Tramo de via,Seco,0
+18,Belen_Error,Atropello,Interseccion,Seco,1
+16,La Candelaria,Choque,Interseccion,Seco,1
+20,Belen_Error,Choque,Tramo de via,Seco,1
+13,El Poblado,Otro,Tramo de via,Seco,0
+8,Belen_Error,Caida ocupante,Tramo de via,Seco,0
+13,La Candelaria,Atropello,Tramo de via,DESCONOCIDO,0
+0,Belen_Error,Choque,Tramo de via,Seco,0
+18,Manrique,Atropello,Tramo de via,Seco,0
+12,La Candelaria,Choque,Interseccion,Seco,0
+12,Manrique,Choque,Tramo de via,Seco,0
+3,Laureles_error,Choque,Interseccion,Seco,1
+0,Castilla,Choque,Interseccion,Niebla,1
+16,Robledo,Choque,Tramo de via,Lluvia,0
+7,Aranjuez,Choque,Tramo de via,Niebla,0
+1,Belen_Error,Otro,Interseccion,DESCONOCIDO,0
+7,Castilla,Volcamiento,Tramo de via,Seco,0
+6,Laureles_error,Atropello,Interseccion,Seco,1
+1,El Poblado,Choque,Interseccion,Seco,0
+21,Belen_Error,Caida ocupante,Interseccion,Seco,0
+21,Robledo,Choque,Lote baldio,Seco,0
+2,Robledo,Atropello,Tramo de via,Seco,1
+17,Robledo,Choque,Tramo de via,Seco,0
+11,Laureles_error,Atropello,Tramo de via,Seco,0
+0,Robledo,Choque,Tramo de via,Seco,1
+21,La Candelaria,Caida ocupante,Tramo de via,Seco,0
+11,Laureles_error,Volcamiento,Tramo de via,Seco,0
+4,La Candelaria,Choque,Paso Elevado,Seco,1
+16,El Poblado,Choque,Tramo de via,Seco,0
+15,El Poblado,Otro,Tramo de via,Lluvia,1
+14,El Poblado,Choque,Tramo de via,Seco,0
+22,Belen_Error,Caida ocupante,Tramo de via,Seco,0
+14,El Poblado,Choque,Tramo de via,Lluvia,0
+4,Laureles_error,Choque,Tramo de via,Seco,1
+20,La Candelaria,Choque,Tramo de via,Seco,0
+13,El Poblado,Choque,Tramo de via,Seco,0
+1,La Candelaria,Atropello,Glorieta,Seco,1
+10,La Candelaria,Choque,Glorieta,Lluvia,0
+18,Aranjuez,Choque,Interseccion,Lluvia,0
+6,Belen_Error,Choque,Tramo de via,Seco,0
+5,Aranjuez,Choque,Glorieta,Seco,0
+1,Laureles_error,Caida ocupante,Glorieta,Seco,1
+5,El Poblado,Otro,Tramo de via,Seco,0
+17,Castilla,Choque,Interseccion,Seco,0
+1,Laureles_error,Caida ocupante,Tramo de via,Seco,0
+17,Laureles_error,Atropello,Interseccion,Seco,0
+14,La Candelaria,Choque,Lote baldio,Seco,0
+18,El Poblado,Otro,Tramo de via,Seco,0
+1,El Poblado,Choque,Glorieta,Seco,0
+19,El Poblado,Choque,,,0
+5,Aranjuez,Caida ocupante,Lote baldio,Lluvia,1
+0,Laureles_error,Choque,Tramo de via,Seco,0
+23,Aranjuez,Caida ocupante,Interseccion,Seco,0
+14,Robledo,Caida ocupante,Tramo de via,Niebla,0
+22,Robledo,Choque,Tramo de via,Seco,0
+9,Belen_Error,Caida ocupante,Tramo de via,Seco,1
+18,Manrique,Choque,Lote baldio,Seco,0
+16,La Candelaria,Choque,Interseccion,Seco,0
+4,La Candelaria,Atropello,Glorieta,Seco,0
+3,La Candelaria,Volcamiento,Paso Elevado,Seco,1
+9,Aranjuez,Choque,Tramo de via,Seco,0
+23,Castilla,Choque,Tramo de via,Lluvia,1
+16,La Candelaria,Atropello,Tramo de via,Seco,0
+9,Castilla,Atropello,Tramo de via,Seco,1
+16,La Candelaria,Atropello,Tramo de via,Lluvia,1
+19,Castilla,Choque,Tramo de via,Seco,0
+23,El Poblado,Choque,Tramo de via,Lluvia,1
+4,La Candelaria,Choque,Tramo de via,Seco,0
+1,Laureles_error,Caida ocupante,Tramo de via,Lluvia,1
+5,El Poblado,Choque,Tramo de via,Seco,0
+20,El Poblado,Choque,Lote baldio,Lluvia,0
+1,El Poblado,Otro,Interseccion,Niebla,0
+12,Robledo,Choque,Lote baldio,Seco,0
+10,Laureles_error,Otro,Tramo de via,Seco,0
+10,El Poblado,Atropello,Tramo de via,Seco,0
+15,Aranjuez,Caida ocupante,Interseccion,Seco,0
+10,Belen_Error,Choque,Tramo de via,Seco,0
+18,El Poblado,Choque,Tramo de via,Seco,0
+14,Laureles_error,Atropello,Tramo de via,Seco,0
+22,La Candelaria,Caida ocupante,Tramo de via,Seco,0
+22,La Candelaria,Atropello,Tramo de via,Seco,1
+15,Belen_Error,Choque,Tramo de via,Seco,0
+10,La Candelaria,Atropello,Interseccion,Seco,1
+21,Laureles_error,Atropello,Tramo de via,Seco,0
+15,Belen_Error,Atropello,Tramo de via,Seco,0
+7,La Candelaria,Atropello,Interseccion,Seco,1
+3,Aranjuez,Caida ocupante,Tramo de via,Seco,1
+7,El Poblado,Atropello,Tramo de via,Seco,1
+3,Manrique,Choque,Glorieta,Seco,0
+23,Laureles_error,Choque,Tramo de via,Lluvia,0
+2,Robledo,Choque,Tramo de via,Seco,0
+2,Aranjuez,Choque,Tramo de via,Seco,0
+17,La Candelaria,Choque,Tramo de via,Seco,0
+18,Aranjuez,Choque,Tramo de via,Lluvia,0
+18,Manrique,Choque,Interseccion,Niebla,0
+20,Aranjuez,Choque,Tramo de via,Seco,0
+4,Robledo,Caida ocupante,Tramo de via,Seco,1
+17,Castilla,Volcamiento,,,0
+9,La Candelaria,Choque,Tramo de via,Seco,0
+21,La Candelaria,Otro,Tramo de via,Seco,0
+20,Aranjuez,Choque,Tramo de via,Seco,0
+5,Laureles_error,Choque,Tramo de via,Seco,1
+0,Robledo,Choque,Tramo de via,Niebla,0
+4,Castilla,Choque,Tramo de via,DESCONOCIDO,0
+8,El Poblado,Atropello,Tramo de via,Lluvia,1
+11,La Candelaria,Atropello,Interseccion,Seco,1
+13,Robledo,Choque,Tramo de via,Lluvia,0
+1,El Poblado,Choque,Tramo de via,Seco,0
+16,Robledo,Choque,Tramo de via,Seco,1
+13,Laureles_error,Choque,Interseccion,Lluvia,0
+12,Belen_Error,Choque,Tramo de via,Seco,0
+8,La Candelaria,Choque,Interseccion,Seco,1
+14,Aranjuez,Caida ocupante,Interseccion,Seco,1
+21,Laureles_error,Volcamiento,Glorieta,Lluvia,1
+14,Aranjuez,Choque,Tramo de via,Seco,1
+23,La Candelaria,Volcamiento,Tramo de via,Seco,0
+10,Belen_Error,Choque,Interseccion,Seco,1
+15,Castilla,Choque,Lote baldio,Lluvia,0
+16,La Candelaria,Choque,Glorieta,Lluvia,0
+3,La Candelaria,Atropello,Tramo de via,Seco,0
+0,La Candelaria,Otro,Tramo de via,Seco,1
+7,Aranjuez,Atropello,,,1
+16,Aranjuez,Choque,Interseccion,DESCONOCIDO,1
+2,Laureles_error,Atropello,Tramo de via,Seco,1
+19,La Candelaria,Choque,Tramo de via,Niebla,0
+14,El Poblado,Caida ocupante,Interseccion,Seco,0
+14,Aranjuez,Choque,Tramo de via,Lluvia,1
+23,Laureles_error,Choque,Glorieta,Lluvia,1
+21,Manrique,Choque,Tramo de via,Seco,0
+13,La Candelaria,Atropello,Tramo de via,DESCONOCIDO,0
+22,Belen_Error,Choque,Tramo de via,Seco,0
+13,Laureles_error,Atropello,Interseccion,Seco,1
+23,Laureles_error,Choque,Tramo de via,Seco,1
+1,Belen_Error,Atropello,Tramo de via,Lluvia,1
+12,Belen_Error,Caida ocupante,Lote baldio,Seco,0
+13,Manrique,Caida ocupante,Tramo de via,Seco,0
+23,La Candelaria,Choque,Tramo de via,Seco,0
+18,La Candelaria,Choque,,,1
+6,Belen_Error,Choque,Tramo de via,Seco,0
+2,Aranjuez,Atropello,Tramo de via,Seco,1
+14,El Poblado,Choque,Tramo de via,,0
+22,La Candelaria,Choque,Tramo de via,Seco,1
+13,La Candelaria,Choque,Tramo de via,Seco,0
+10,Castilla,Choque,Interseccion,Seco,0
+14,La Candelaria,Atropello,Tramo de via,Seco,0
+12,El Poblado,Choque,Tramo de via,Lluvia,0
+17,La Candelaria,Atropello,Tramo de via,Niebla,0
+5,El Poblado,Choque,Tramo de via,Seco,0
+2,La Candelaria,Choque,Tramo de via,Lluvia,0
+18,Laureles_error,Choque,Tramo de via,Lluvia,0
+14,La Candelaria,Choque,Interseccion,Lluvia,1
+22,Robledo,Choque,Tramo de via,Seco,1
+4,La Candelaria,Atropello,Paso Elevado,DESCONOCIDO,1
+9,Laureles_error,Choque,Lote baldio,Seco,0
+6,Castilla,Caida ocupante,Tramo de via,Seco,0
+16,Belen_Error,Choque,Tramo de via,Seco,0
+6,Laureles_error,Choque,Tramo de via,Seco,0
+21,El Poblado,Atropello,Interseccion,Seco,0
+11,El Poblado,Choque,Tramo de via,Seco,0
+16,Belen_Error,Choque,Tramo de via,Seco,0
+12,Manrique,Choque,Tramo de via,Lluvia,1
+19,Belen_Error,Choque,Interseccion,Lluvia,0
+3,Aranjuez,Caida ocupante,Interseccion,Seco,1
+9,Belen_Error,Choque,Tramo de via,Lluvia,0
+2,Laureles_error,Atropello,Interseccion,Lluvia,1
+8,La Candelaria,Caida ocupante,Tramo de via,Lluvia,1
+12,Aranjuez,Choque,Tramo de via,Seco,0
+17,Manrique,Volcamiento,Glorieta,Seco,0
+14,La Candelaria,Choque,Tramo de via,Niebla,0
+3,Belen_Error,Otro,Tramo de via,Seco,1
+14,La Candelaria,Choque,Tramo de via,Seco,0
+21,Laureles_error,Atropello,Glorieta,Seco,0
+1,La Candelaria,Choque,Interseccion,Seco,1
+14,Laureles_error,Choque,Tramo de via,Seco,0
+7,Robledo,Atropello,Interseccion,Seco,1
+7,El Poblado,Atropello,Tramo de via,Seco,1
+16,Belen_Error,Choque,,,0
+11,Robledo,Choque,Tramo de via,Lluvia,0
+18,Castilla,Atropello,Tramo de via,Seco,0
+9,La Candelaria,Atropello,Tramo de via,DESCONOCIDO,0
+8,El Poblado,Otro,Paso Elevado,Seco,0
+4,La Candelaria,Atropello,Tramo de via,Seco,1
+5,Manrique,Otro,Tramo de via,Lluvia,0
+19,Castilla,Atropello,Tramo de via,Lluvia,0
+1,Laureles_error,Choque,Tramo de via,Niebla,0
+23,Robledo,Choque,Paso Elevado,,1
+12,Laureles_error,Atropello,Tramo de via,Lluvia,1
+5,Aranjuez,Atropello,Tramo de via,Seco,1
+4,La Candelaria,Choque,Interseccion,Lluvia,1
+0,Robledo,Choque,Tramo de via,Lluvia,0
+20,La Candelaria,Otro,Tramo de via,Seco,0
+21,Robledo,Choque,Tramo de via,Seco,0
+20,Robledo,Choque,Tramo de via,Lluvia,0
+5,Belen_Error,Choque,Lote baldio,Seco,0
+5,La Candelaria,Choque,Interseccion,Seco,1
+22,El Poblado,Choque,Tramo de via,Lluvia,1
+15,El Poblado,Choque,Interseccion,Seco,0
+3,El Poblado,Choque,Tramo de via,Lluvia,0
+10,La Candelaria,Atropello,Tramo de via,Seco,0
+23,Castilla,Choque,Tramo de via,Seco,0
+22,Aranjuez,Caida ocupante,Tramo de via,Lluvia,1
+8,El Poblado,Caida ocupante,Tramo de via,Seco,0
+22,El Poblado,Choque,Tramo de via,Seco,1
+2,Laureles_error,Atropello,Paso Elevado,Lluvia,1
+18,Aranjuez,Choque,Tramo de via,Seco,0
+7,Laureles_error,Caida ocupante,Tramo de via,Seco,0
+4,Castilla,Choque,Tramo de via,Seco,1
+3,Laureles_error,Atropello,Tramo de via,Lluvia,1
+23,Manrique,Atropello,Tramo de via,Lluvia,1
+5,Castilla,Choque,Tramo de via,Lluvia,1
+1,La Candelaria,Choque,Interseccion,Seco,1
+19,Castilla,Atropello,,,1
+10,La Candelaria,Atropello,Tramo de via,Seco,0
+3,Robledo,Choque,Tramo de via,Seco,1
+14,El Poblado,Atropello,Tramo de via,Seco,1
+5,Castilla,Choque,Tramo de via,Lluvia,0
+21,Castilla,Atropello,Interseccion,Lluvia,1
+16,Robledo,Choque,Tramo de via,Seco,0
+23,Robledo,Caida ocupante,Tramo de via,Seco,1
+5,El Poblado,Choque,Tramo de via,Lluvia,0
+18,La Candelaria,Choque,Tramo de via,Seco,0
+1,Laureles_error,Choque,Tramo de via,DESCONOCIDO,0
+14,La Candelaria,Choque,Interseccion,Seco,1
+10,Belen_Error,Choque,Tramo de via,Seco,0
+7,El Poblado,Choque,Interseccion,,0
+18,Manrique,Caida ocupante,Tramo de via,Seco,0
+12,Aranjuez,Choque,Interseccion,Niebla,1
+11,Robledo,Choque,Tramo de via,Seco,0
+4,La Candelaria,Choque,Interseccion,Lluvia,0
+5,Castilla,Choque,Tramo de via,Seco,1
+21,Castilla,Choque,Paso Elevado,Seco,0
+3,Laureles_error,Choque,Tramo de via,Seco,1
+18,Aranjuez,Choque,Tramo de via,Seco,0
+19,Robledo,Choque,Tramo de via,DESCONOCIDO,0
+0,La Candelaria,Choque,Interseccion,Seco,0
+19,Laureles_error,Choque,Tramo de via,Seco,0
+16,El Poblado,Choque,Interseccion,Seco,0
+11,La Candelaria,Choque,Tramo de via,Seco,0
