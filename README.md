@@ -1,5 +1,7 @@
 # Medellín Traffic Accident Severity Prediction
 
+[![lint](https://github.com/alejo86a/prediccion-accidentes-medellin/actions/workflows/lint.yml/badge.svg)](https://github.com/alejo86a/prediccion-accidentes-medellin/actions/workflows/lint.yml)
+
 A machine learning project (CRISP-DM methodology) that predicts whether a traffic accident in Medellín, Colombia will require priority medical attention (ambulance dispatch), based on real accident report data.
 
 ## What this project does
